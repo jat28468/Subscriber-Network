@@ -7,5 +7,4 @@ If a mobile user's transactions are all unfamiliar post SIM reset, it is highly 
 
 This code allows detection of SIM swap fraud in real time, as well as the ability to map money laundering networks for watchlisting purposes.  
 
-
- http://htmlpreview.github.com/?https://github.com/Alexander-Mark/Subscriber-Network/blob/master/TZ_SimSwap_Network.html
+ 
