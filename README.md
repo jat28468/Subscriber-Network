@@ -6,3 +6,6 @@ A SIM swap followed by a PIN reset is considered high risk activity in mobile fr
 If a mobile user's transactions are all unfamiliar post SIM reset, it is highly likely that the user has obtained access to someone's phone fraudulently, and is attempting to empty the victim's mobile money account. Such transactions are usually made to mobile money merchants in an attempt to launder the funds. 
 
 This code allows detection of SIM swap fraud in real time, as well as the ability to map money laundering networks for watchlisting purposes.  
+
+
+https://github.com/Alexander-Mark/Subscriber-Network/blob/master/TZ_SimSwap_Network.html
